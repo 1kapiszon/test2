@@ -108,7 +108,7 @@ printf("UDA£O SIE!!!!");
  getchar();
           getchar();  
 }
-
+// thanks
 
 
 //funkcja silnia
